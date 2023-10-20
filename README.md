@@ -18,7 +18,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - Tạo khóa học
 - Phân chia đề thi
 - Thiết lập thời gian làm bài
-- tạo kì thi
+- Tạo kì thi
 - Xem kết quả của học sinh
 - Làm đề thi
 
