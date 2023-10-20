@@ -29,9 +29,11 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - 21DH110 Trần Khánh Duy
 - 21DH110644 La Tấn Huy
 
-| Tên | Tuổi | Quốc tịch | Nghề nghiệp |
-|---|---|---|---|
-| John Doe | 25 | Việt Nam | Lập trình viên |
-| Jane Doe | 23 | Hoa Kỳ | Nhà thiết kế |
+| Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
+|---|---|---|
+| Nguyễn Xuân Trường | 21DH114255 | Product Owner, Dev |
+| Trần Khánh Duy | 21DH110316 | Team Leader, Dev |  
+| La Tấn Huy | 21DH110644 | Scrum Master, Dev |
+
 # Ngày bắt đầu
 15/09/2023
