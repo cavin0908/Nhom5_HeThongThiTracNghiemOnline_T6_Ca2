@@ -32,8 +32,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
 |---|---|---|---|
 | Nguyễn Xuân Trường | 21DH114255 | springschool623 | Product Owner, Dev |
-| Trần Khánh Duy | 21DH110316 | TranDuy1901 | Product Owner, Dev |  
-| La Tấn Huy | 21DH110644 | cavin0908 | Product Owner, Dev |
+| Trần Khánh Duy | 21DH110316 | TranDuy1901 | Team Leader, Dev |  
+| La Tấn Huy | 21DH110644 | cavin0908 | Scrum Master, Dev |
 
 # Ngày bắt đầu
 15/09/2023
