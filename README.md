@@ -22,7 +22,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - Xem kết quả của học sinh
 - Làm đề thi
 
-<img width="333" height="400" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
+<img width="400" height="700" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
 
 # Thành viên
 - 21DH110 Nguyễn Xuân Trường 
