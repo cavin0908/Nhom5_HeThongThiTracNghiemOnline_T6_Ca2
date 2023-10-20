@@ -25,10 +25,6 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 <img width="400" height="500" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
 
 # Thành viên
-- 21DH110 Nguyễn Xuân Trường 
-- 21DH110 Trần Khánh Duy
-- 21DH110644 La Tấn Huy
-
 | Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
 |---|---|---|---|
 | Nguyễn Xuân Trường | 21DH114255 | springschool623 | Product Owner, Dev |
