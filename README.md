@@ -22,11 +22,16 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - Xem kết quả của học sinh
 - Làm đề thi
 
-<img width="400" height="700" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
+<img width="400" height="600" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
 
 # Thành viên
 - 21DH110 Nguyễn Xuân Trường 
 - 21DH110 Trần Khánh Duy
 - 21DH110644 La Tấn Huy
+
+| Tên | Tuổi | Quốc tịch | Nghề nghiệp |
+|---|---|---|---|
+| John Doe | 25 | Việt Nam | Lập trình viên |
+| Jane Doe | 23 | Hoa Kỳ | Nhà thiết kế |
 # Ngày bắt đầu
 15/09/2023
