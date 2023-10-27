@@ -31,8 +31,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Trần Khánh Duy | 21DH110316 | TranDuy1901 | Team Leader, Dev |  
 | La Tấn Huy | 21DH110644 | cavin0908 | Scrum Master, Dev |
 
-# Ngày bắt đầu
-15/09/2023
+# Thời gian làm dự án
+15/09/2023 - 17/11/2023
 
 # Tài liệu tham khảo
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
