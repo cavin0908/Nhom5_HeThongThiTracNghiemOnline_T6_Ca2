@@ -45,3 +45,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 # Tài liệu tham khảo
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
 
+# Note cải thiện
+- thêm validate cho các input của admin
+- thêm trang báo lỗi login
+
