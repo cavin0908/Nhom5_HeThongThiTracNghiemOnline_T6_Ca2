@@ -31,6 +31,14 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Trần Khánh Duy | 21DH110316 | TranDuy1901 | Team Leader, Dev |  
 | La Tấn Huy | 21DH110644 | cavin0908 | Scrum Master, Dev |
 
+# Công nghệ sử dụng
+- MVC
+- Sqlserver
+- Github
+- Bootstrap
+- Html
+
+
 # Thời gian làm dự án
 15/09/2023 - 17/11/2023
 
