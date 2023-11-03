@@ -61,4 +61,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - thêm trang báo lỗi login
 - sửa giao diện
 
-
+# Hướng phát triển
+- Vẽ giao diện đơn giản hơn
+- Nhiều chức năng hơn
+  
