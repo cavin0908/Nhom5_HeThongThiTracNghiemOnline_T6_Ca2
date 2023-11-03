@@ -42,6 +42,34 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 # Thời gian làm dự án
 15/09/2023 - 17/11/2023
 
+# Những gì đã làm được
+Sprint 1:
+Đăng nhập
+Xem Trang chủ
+Quản lý tài khoản
+Quản lý lịch thi
+Quản lý lớp học
+Quản lý môn thi
+Quản lý học sinh
+
+Sprint 2:
+Xem Lớp học
+Xem Khóa 
+Xem Lịch thi
+Xem thông tin cá nhân
+Xem Kết quả thi các môn
+Xem thông tin học sinh
+Chỉnh sửa thông tin tài khoản
+Xem kết quả học sinh
+Quản lý khóa học
+Thêm tài liệu học tập
+
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/18aad7a7-1d3d-4fe0-9907-bc379a49a917)
+
+
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/523a5747-0425-4456-b973-1ba278d4702d)
+
+
 # Tài liệu tham khảo
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
 
