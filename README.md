@@ -20,7 +20,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- MVC: <img src="https://github.githubassets.com/favicon.ico" />
+- MVC: <img src="https://github.githubassets.com/favicon.ico" />  [GitHub](https://github.com/)
+
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
