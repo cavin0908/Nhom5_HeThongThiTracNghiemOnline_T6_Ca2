@@ -25,7 +25,6 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 - Bootstrap
 - Html
 
-
 # Thời gian làm dự án
 15/09/2023 - 17/11/2023
 
@@ -39,6 +38,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/523a5747-0425-4456-b973-1ba278d4702d)
 
 - Sprint 3:
+
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/3ae2d635-e169-41d0-964b-b82929a620ba)
 
 # Tài liệu tham khảo
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
