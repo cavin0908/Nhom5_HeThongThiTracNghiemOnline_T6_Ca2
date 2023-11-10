@@ -29,10 +29,28 @@ MVC là viết tắt của Model-View-Controller, là một mô hình kiến tr�
 | View | Trình bày dữ liệu cho người dùng |
 | Controller | Xử lý các yêu cầu từ người dùng và điều khiển hành vi của ứng dụng |
 
-- Sqlserver
+- Sqlserver:
+
+Sql server là công cụ tạo, quản lý database của project
 - Github
+
+Github là một kho lưu trữ mã nguồn code, giúp lưu trữ và cho các lập trình viên hay nhóm chúng tôi tương tác với nhau 
+
 - Bootstrap
+
+Bootstrap là một framework được tích hợp sẵn. Hiểu một cách đơn giản, Bootstrap một Framework bao gồm 3 thành phần cơ bản, đó là: HTML, CSS và JavaScript. Framework này được sử dụng để phát triển trang web chuẩn theo Responsive. Sử dụng Bootstrap giúp việc thiết kế web tiết kiệm nhiều thời gian và đơn giản hơn. Bootstrap là một bộ sưu tập hoàn toàn miễn phí. Bộ sưu tập này bao gồm các mã nguồn mở và các công cụ giúp bạn có thể tạo thành một website với đầy đủ các thành phần.
+
 - Html
+
+Html là viết tắt của cụm từ Hypertext Markup Language (tạm dịch là Ngôn ngữ đánh dấu siêu văn bản). HTML được sử dụng để tạo và cấu trúc các thành phần trong trang web hoặc ứng dụng, phân chia các đoạn văn, heading, titles, blockquotes… là nội dung chính của trang
+
+- Css
+
+CSS là chữ viết tắt của Cascading Style Sheets, nó là một ngôn ngữ được sử dụng để tìm và định dạng lại các phần tử được tạo ra bởi các ngôn ngữ đánh dấu (HTML). Nói ngắn gọn hơn là ngôn ngữ tạo phong cách cho trang web. Bạn có thể hiểu đơn giản rằng, nếu HTML đóng vai trò định dạng các phần tử trên website như việc tạo ra các đoạn văn bản, các tiêu đề, bảng,…thì CSS sẽ giúp chúng ta có thể thêm style vào các phần tử HTML đó như đổi bố cục, màu sắc trang, đổi màu chữ, font chữ, thay đổi cấu trúc…
+  
+- Javascript
+
+Javascript là một ngôn ngữ lập trình website, được tích hợp và nhúng trong HTML và giúp cho website trở nên sống động hơn. Đây là dạng ngôn ngữ theo kịch bản, được hình thành dựa trên chính đối tượng phát triển có sẵn hoặc đơn giản là tự định nghĩa ra. Javascript cho phép bạn kiểm soát các hành vi của trang web tốt hơn so với việc chỉ sử dụng mỗi HTML
 
 # Thời gian làm dự án
 15/09/2023 - 17/11/2023
