@@ -19,7 +19,11 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | La Tấn Huy | 21DH110644 | cavin0908 | Scrum Master, Dev |
 
 # Công nghệ sử dụng
-- MVC
+- MVC:
+MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
+Model: Chứa dữ liệu và logic nghiệp vụ của ứng dụng.
+View: Trình bày dữ liệu cho người dùng.
+Controller: Xử lý các yêu cầu từ người dùng và điều khiển hành vi của ứng dụng.
 - Sqlserver
 - Github
 - Bootstrap
@@ -30,19 +34,17 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 # Những gì đã làm được
 - Sprint 1:
-thời gian thực hiện: 22/09/2023 - 04/10/2023
-
-![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/92089112-4cac-4c9e-88c5-29bc1dfef94c)
-
-![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/322a727e-a401-4b9e-aad1-0942d237f7df)
+Thời gian thực hiện: 22/09/2023 - 04/10/2023
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/18aad7a7-1d3d-4fe0-9907-bc379a49a917)
 
 - Sprint 2:
+Thời gian thực hiện: 07/10/2023 - 27/10/2023
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/523a5747-0425-4456-b973-1ba278d4702d)
 
 - Sprint 3:
+Thời gian thực hiện: 28/10/2023 - 17/11/2023
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/3ae2d635-e169-41d0-964b-b82929a620ba)
 
