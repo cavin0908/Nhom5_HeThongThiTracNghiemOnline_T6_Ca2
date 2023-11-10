@@ -23,7 +23,6 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
-| | |
 |---|---|
 | Model | Chứa dữ liệu và logic nghiệp vụ của ứng dụng |
 | View | Trình bày dữ liệu cho người dùng |
