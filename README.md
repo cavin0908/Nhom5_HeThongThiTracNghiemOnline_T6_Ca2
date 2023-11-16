@@ -20,14 +20,16 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- MVC [![MVC]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
+- MVC [![]([https://i.imgur.com/6o34d4o.png])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
-- Sqlserver <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> </a>
+- Sqlserver <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a>
 
 Sql server là công cụ tạo, quản lý database của project
+
 - Github [![](https://github.githubassets.com/favicon.ico)](https://github.com/)
+  
 Github là một kho lưu trữ mã nguồn code, giúp lưu trữ và cho các lập trình viên hay nhóm chúng tôi tương tác với nhau 
 
 - Bootstrap <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a>
