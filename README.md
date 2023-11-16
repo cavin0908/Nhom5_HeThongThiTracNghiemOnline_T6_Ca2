@@ -19,8 +19,10 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Xem tài liệu học tập | Tương tác với học sinh | Xem thống kê | Tạo đề thi | Tạo khóa học |
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
+
 # Công nghệ sử dụng 💾
-- MVC <a href="https://img.icons8.com/ios-filled/50/000000/mvc-architecture.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/mvc-architecture.png" alt="MVC" width="20" height="20"/> </a>
+- MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="![th](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9)" alt="MVC" width="20" height="20"/> </a>
+
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
 - Sqlserver <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a>
