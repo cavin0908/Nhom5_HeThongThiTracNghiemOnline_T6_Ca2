@@ -2,7 +2,7 @@
 # Giới Thiệu
 Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một loạt các tính năng và lợi ích đặc biệt: Tiện lợi và Linh hoạt: Bất kể bạn là học sinh hay giáo viên, bạn có thể truy cập hệ thống từ bất kỳ máy tính nào có kết nối internet. Không còn lo lắng về việc mất giấy bài thi hay mất thời gian chờ đợi. Học sinh có thể dễ dàng tham gia bài thi tại máy tính cá nhân của mình.
 
-<img width="500" height="500" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
+<img width="500" height="520" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
 
 # Thành viên 👨‍💻
 | Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
@@ -21,7 +21,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 
 # Công nghệ sử dụng 💾
-- MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9" alt="MVC" width="20" height="20"/> </a>
+- MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9" alt="MVC" width="30" height="30"/> </a>
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
