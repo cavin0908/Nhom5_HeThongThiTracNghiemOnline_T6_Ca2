@@ -20,7 +20,10 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- MVC: [![GitHub]([https://github.githubassets.com/favicon.ico](https://vn.images.search.yahoo.com/images/view;_ylt=AwrKGC_yE1ZlFaMg40VtUwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzMyZGU5YTVmYTkwZTg1MTliNzVjMjljMjczNmE2NjNkBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fvn.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dmvc%2Bicon%26type%3DE210VN91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D4&w=890&h=445&imgurl=c0.klipartz.com%2Fpngpicture%2F713%2F310%2Fgratis-png-logotipo-de-net-mvc-asp-net-logotipo-de-mvc-net-framework-model-view-controller-framework.png&rurl=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-ycrzq&size=25.3KB&p=mvc+icon&oid=32de9a5fa90e8519b75c29c2736a663d&fr2=piv-web&fr=mcafee&tt=Net+MVC+logo%2C+ASP.NET+MVC+Logo+.NET+Framework+Model%E2%80%93view%E2%80%93controller+...&b=0&ni=21&no=4&ts=&tab=organic&sigr=HcTINxLiSnzG&sigb=nuSimXP7oSep&sigi=5.ZFt7UdWyGy&sigt=jw_Z6O1hSQSk&.crumb=rNjNUIiV.1H&fr=mcafee&fr2=piv-web&type=E210VN91215G0))]([https://github.com/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
+- MVC: [![GitHub](https://github.githubassets.com/favicon.ico)](https://github.com/) {
+  width: 50px;
+  height: 50px;
+}
 
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
