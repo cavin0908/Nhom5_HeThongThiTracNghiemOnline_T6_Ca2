@@ -20,7 +20,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- MVC: [![GitHub](https://github.githubassets.com/favicon.ico)](https://github.com/) {
+- MVC:
+[![GitHub](https://github.githubassets.com/favicon.ico)](https://github.com/) {
   width: 50px;
   height: 50px;
 }
