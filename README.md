@@ -20,10 +20,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- [![MVC](https://i.imgur.com/6o34d4o.png)](https://docs.microsoft.com/en-us/aspnet/core/mvc/) {
-  width: 50px;
-  height: 50px;
-}
+- [![MVC]([https://i.imgur.com/6o34d4o.png](https://vn.images.search.yahoo.com/images/view;_ylt=AwrKGC86FVZlcTwgFV9tUwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2NlY2NjNjc0OTYzNTE3MTZlZjgzYThmYzVhZmI1NTA5BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fvn.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dicon%2Bmvc%2Bpng%26type%3DE210VN91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=900&h=460&imgurl=img2.gratispng.com%2F20180804%2Fzhv%2Fkisspng-asp-net-mvc-logo-net-framework-model%25E2%2580%2593view%25E2%2580%2593con-29-essential-asp-dot-net-mvc-interview-questions-a-5b663cf16fd351.0069034615334269294581.jpg&rurl=https%3A%2F%2Fwww.gratispng.com%2Fpng-rtvsmc%2F&size=49.3KB&p=icon+mvc+png&oid=ceccc67496351716ef83a8fc5afb5509&fr2=piv-web&fr=mcafee&tt=Aspnet+Mvc%2C+Logo%2C+Net+Framework+png+transparente+gr%C3%A1tis&b=0&ni=21&no=3&ts=&tab=organic&sigr=ZLRCgKIhbhgV&sigb=UATHw9Y6sXr5&sigi=tWdV2gTWgEih&sigt=G4wD075PAZs3&.crumb=rNjNUIiV.1H&fr=mcafee&fr2=piv-web&type=E210VN91215G0))](https://docs.microsoft.com/en-us/aspnet/core/mvc/)
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
