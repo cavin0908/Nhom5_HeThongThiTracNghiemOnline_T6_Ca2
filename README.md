@@ -1,5 +1,5 @@
 # Hệ Thống Thi Trắc Nghiệm Trực Tuyến ProExam
-# Giới Thiệu 🤗
+# Giới Thiệu 
 Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một loạt các tính năng và lợi ích đặc biệt: Tiện lợi và Linh hoạt: Bất kể bạn là học sinh hay giáo viên, bạn có thể truy cập hệ thống từ bất kỳ máy tính nào có kết nối internet. Không còn lo lắng về việc mất giấy bài thi hay mất thời gian chờ đợi. Học sinh có thể dễ dàng tham gia bài thi tại máy tính cá nhân của mình.
 
 <img width="480" height="480" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
@@ -49,7 +49,7 @@ CSS là chữ viết tắt của Cascading Style Sheets, nó là một ngôn ng�
 
 Javascript là một ngôn ngữ lập trình website, được tích hợp và nhúng trong HTML và giúp cho website trở nên sống động hơn. Đây là dạng ngôn ngữ theo kịch bản, được hình thành dựa trên chính đối tượng phát triển có sẵn hoặc đơn giản là tự định nghĩa ra. Javascript cho phép bạn kiểm soát các hành vi của trang web tốt hơn so với việc chỉ sử dụng mỗi HTML
 
-# Thời gian làm dự án
+# Thời gian làm dự án 🏃‍♂️
 15/09/2023 - 17/11/2023
 
 # Những gì đã làm được
@@ -68,7 +68,7 @@ Thời gian thực hiện: 28/10/2023 - 17/11/2023
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/3ae2d635-e169-41d0-964b-b82929a620ba)
 
-# Tài liệu tham khảo
+# Tài liệu tham khảo 
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
 
 # Note cải thiện
