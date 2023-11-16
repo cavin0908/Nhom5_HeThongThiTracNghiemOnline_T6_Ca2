@@ -20,7 +20,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 # Công nghệ sử dụng 💾
-- [![MVC]([(https://vn.images.search.yahoo.com/images/view;_ylt=AwrKGC86FVZlcTwgFV9tUwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2NlY2NjNjc0OTYzNTE3MTZlZjgzYThmYzVhZmI1NTA5BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fvn.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dicon%2Bmvc%2Bpng%26type%3DE210VN91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=900&h=460&imgurl=img2.gratispng.com%2F20180804%2Fzhv%2Fkisspng-asp-net-mvc-logo-net-framework-model%25E2%2580%2593view%25E2%2580%2593con-29-essential-asp-dot-net-mvc-interview-questions-a-5b663cf16fd351.0069034615334269294581.jpg&rurl=https%3A%2F%2Fwww.gratispng.com%2Fpng-rtvsmc%2F&size=49.3KB&p=icon+mvc+png&oid=ceccc67496351716ef83a8fc5afb5509&fr2=piv-web&fr=mcafee&tt=Aspnet+Mvc%2C+Logo%2C+Net+Framework+png+transparente+gr%C3%A1tis&b=0&ni=21&no=3&ts=&tab=organic&sigr=ZLRCgKIhbhgV&sigb=UATHw9Y6sXr5&sigi=tWdV2gTWgEih&sigt=G4wD075PAZs3&.crumb=rNjNUIiV.1H&fr=mcafee&fr2=piv-web&type=E210VN91215G0))](https://docs.microsoft.com/en-us/aspnet/core/mvc/)
+- [![MVC]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
@@ -30,26 +30,26 @@ MVC là viết tắt của Model-View-Controller, là một mô hình kiến tr�
 | View | Trình bày dữ liệu cho người dùng |
 | Controller | Xử lý các yêu cầu từ người dùng và điều khiển hành vi của ứng dụng |
 
-- Sqlserver:
+- [![Sqlserver]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 Sql server là công cụ tạo, quản lý database của project
-- Github
+- [![Github]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 Github là một kho lưu trữ mã nguồn code, giúp lưu trữ và cho các lập trình viên hay nhóm chúng tôi tương tác với nhau 
 
-- Bootstrap
+- [![Bootstrap]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 Bootstrap là một framework được tích hợp sẵn. Hiểu một cách đơn giản, Bootstrap một Framework bao gồm 3 thành phần cơ bản, đó là: HTML, CSS và JavaScript. Framework này được sử dụng để phát triển trang web chuẩn theo Responsive. Sử dụng Bootstrap giúp việc thiết kế web tiết kiệm nhiều thời gian và đơn giản hơn. Bootstrap là một bộ sưu tập hoàn toàn miễn phí. Bộ sưu tập này bao gồm các mã nguồn mở và các công cụ giúp bạn có thể tạo thành một website với đầy đủ các thành phần.
 
-- Html
+- [![Html]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 Html là viết tắt của cụm từ Hypertext Markup Language (tạm dịch là Ngôn ngữ đánh dấu siêu văn bản). HTML được sử dụng để tạo và cấu trúc các thành phần trong trang web hoặc ứng dụng, phân chia các đoạn văn, heading, titles, blockquotes… là nội dung chính của trang
 
-- Css
+- [![Css]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 CSS là chữ viết tắt của Cascading Style Sheets, nó là một ngôn ngữ được sử dụng để tìm và định dạng lại các phần tử được tạo ra bởi các ngôn ngữ đánh dấu (HTML). Nói ngắn gọn hơn là ngôn ngữ tạo phong cách cho trang web. Bạn có thể hiểu đơn giản rằng, nếu HTML đóng vai trò định dạng các phần tử trên website như việc tạo ra các đoạn văn bản, các tiêu đề, bảng,…thì CSS sẽ giúp chúng ta có thể thêm style vào các phần tử HTML đó như đổi bố cục, màu sắc trang, đổi màu chữ, font chữ, thay đổi cấu trúc…
   
-- Javascript
+- [![Javascript]([])]([https://docs.microsoft.com/en-us/aspnet/core/mvc/](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
 
 Javascript là một ngôn ngữ lập trình website, được tích hợp và nhúng trong HTML và giúp cho website trở nên sống động hơn. Đây là dạng ngôn ngữ theo kịch bản, được hình thành dựa trên chính đối tượng phát triển có sẵn hoặc đơn giản là tự định nghĩa ra. Javascript cho phép bạn kiểm soát các hành vi của trang web tốt hơn so với việc chỉ sử dụng mỗi HTML
 
