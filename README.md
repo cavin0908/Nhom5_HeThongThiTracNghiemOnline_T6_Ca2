@@ -4,6 +4,9 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 <img width="400" height="500" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a">
 
+![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
+
+
 # Thành viên 👨‍💻
 | Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
 |---|---|---|---|
