@@ -21,7 +21,7 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 
 # Công nghệ sử dụng 💾
-- MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="![th](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9)" alt="MVC" width="20" height="20"/> </a>
+- MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9" alt="MVC" width="20" height="20"/> </a>
 
 MVC là viết tắt của Model-View-Controller, là một mô hình kiến trúc phần mềm phổ biến để phát triển các ứng dụng web và ứng dụng di động. MVC chia một ứng dụng thành ba thành phần chính:
 
