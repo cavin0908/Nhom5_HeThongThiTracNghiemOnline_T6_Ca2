@@ -1,5 +1,5 @@
 # Hệ Thống Thi Trắc Nghiệm Trực Tuyến ProExam
-# Giới Thiệu 
+# Giới Thiệu 📖
 Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một loạt các tính năng và lợi ích đặc biệt: Tiện lợi và Linh hoạt: Bất kể bạn là học sinh hay giáo viên, bạn có thể truy cập hệ thống từ bất kỳ máy tính nào có kết nối internet. Không còn lo lắng về việc mất giấy bài thi hay mất thời gian chờ đợi. Học sinh có thể dễ dàng tham gia bài thi tại máy tính cá nhân của mình.
 
 <img width="450" height="480" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
