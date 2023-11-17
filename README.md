@@ -15,6 +15,9 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/c26a58aa-81c8-4714-bf7c-3c870f1e4e2d)
 
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/c2230de3-52e1-4864-a71c-50d4c80355cd)
+
+
 # Công nghệ sử dụng 💾
 - MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9" alt="MVC" width="30" height="30"/> </a>
 
