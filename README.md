@@ -2,7 +2,7 @@
 # Giới Thiệu 
 Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một loạt các tính năng và lợi ích đặc biệt: Tiện lợi và Linh hoạt: Bất kể bạn là học sinh hay giáo viên, bạn có thể truy cập hệ thống từ bất kỳ máy tính nào có kết nối internet. Không còn lo lắng về việc mất giấy bài thi hay mất thời gian chờ đợi. Học sinh có thể dễ dàng tham gia bài thi tại máy tính cá nhân của mình.
 
-<img width="470" height="480" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
+<img width="460" height="480" alt="Home" src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/358c7f57-0ab9-4bb4-af51-f3c0d692f93a"> ![](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
 
 # Thành viên 👨‍💻
 | Tên | Mã Sinh Viên | Vai Trò | Vai Trò |
@@ -66,7 +66,7 @@ Thời gian thực hiện: 07/10/2023 - 27/10/2023
 - Sprint 3:
 Thời gian thực hiện: 28/10/2023 - 17/11/2023
 
-![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/3ae2d635-e169-41d0-964b-b82929a620ba)
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/0e072b2e-b8e5-4237-95a4-4d470318e31a)
 
 # Tài liệu tham khảo 
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
