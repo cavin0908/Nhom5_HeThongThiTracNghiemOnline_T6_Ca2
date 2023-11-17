@@ -69,7 +69,7 @@ Thời gian thực hiện: 07/10/2023 - 27/10/2023
 - Sprint 3:
 Thời gian thực hiện: 28/10/2023 - 17/11/2023
 
-![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/0e072b2e-b8e5-4237-95a4-4d470318e31a)
+![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/1adff7b9-2ccb-4c30-808e-7692dbac8e36)
 
 # Tài liệu tham khảo 
 - https://www.odoo.com/app/website?network=o&utm_source=bing_o&utm_medium=cpc&utm_campaign=HK-SG-EN-Website&utm_gclid=&msclkid=56c783f2b4d412eee039e6c998c393dc
