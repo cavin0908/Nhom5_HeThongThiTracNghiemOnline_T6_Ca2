@@ -12,16 +12,8 @@ Với Hệ thống Thi Trực Tuyến ProExam, chúng tôi mang đến một lo�
 | La Tấn Huy | 21DH110644 | cavin0908 | Scrum Master, Dev |
 
 # Mục tiêu ban đầu 🎯
-| | | | | |
-|---|---|---|---|---|
-| Đăng nhập | Xem lịch thi | Xem môn thi | Xem khóa | Xem các khóa học |
-| Xem kết quả thi các môn | Xem thông tin tài khoản | thay đổi thông tin tài khoản | thay đổi thông tin tài khoản | Phân quyền: Admin, Giáo viên, Học sinh |
-| Xem tài liệu học tập | Tương tác với học sinh | Xem thống kê | Tạo đề thi | Tạo khóa học |
-| Phân chia đề thi | Thiết lập thời gian làm bài | Tạo kì thi | Xem kết quả của học sinh | Làm đề thi |
 
 ![image](https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/c26a58aa-81c8-4714-bf7c-3c870f1e4e2d)
-
-
 
 # Công nghệ sử dụng 💾
 - MVC <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://github.com/cavin0908/Nhom5_HeThongThiTracNghiemOnline_T6_Ca2/assets/130212092/54a52c45-2bb6-4ac4-861a-f75580539ca9" alt="MVC" width="30" height="30"/> </a>
